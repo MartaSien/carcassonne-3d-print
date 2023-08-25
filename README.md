@@ -11,7 +11,7 @@ The models will include the base game. Hopefully, in the future, I'll be able to
 
 Below you can find a top view for each uploaded tile, alongside its name (according to "Carcassonne" board game manual). Tiles are still a work in progress - I will be updating the repository with new designs.
 
-A| B | D | U | W | X  
+[A](A.stl) | [B](B.stl) | [D](D.stl) | [U](U.stl) | [W](W.stl) | [X](X.stl)  
 --- | --- | --- | --- |--- |---
 ![A](/A.png) | ![B](/B.png) | ![D](/D.png) | ![U](/U.png) | ![W](/W.png) | ![X](/X.png)
 
