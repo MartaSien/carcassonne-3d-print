@@ -15,9 +15,9 @@ Below you can find a top view for each uploaded tile, alongside its name (accord
 --- | --- | --- | ---
 ![A](/A.png) | ![B](/B.png) | ![D](/D.png) | ![U](/U.png)
 
-[U](U.stl) | [V](V.stl) | [W](W.stl)
+[V](V.stl) | [W](W.stl) | [X](X.stl)
 --- | --- | ---
-![U](/U.png) | ![V](/V.png) | ![W](/W.png)
+![V](/V.png) | ![W](/W.png) | ![X](/X.png)
 
 
 Thank you for stopping by! 🙂
