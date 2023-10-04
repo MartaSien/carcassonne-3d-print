@@ -11,6 +11,8 @@ The models will include the base game. Hopefully, in the future, I'll be able to
 
 Below you can find a top view for each uploaded tile, alongside its name (according to "Carcassonne" board game manual). Tiles are still a work in progress - I will be updating the repository with new designs.
 
+Each tile is 45x45 mm, just like the original Carcassonne tiles.
+
 [A](A.stl) | [B](B.stl) | [D](D.stl) | [U](U.stl)
 --- | --- | --- | ---
 ![A](/A.png) | ![B](/B.png) | ![D](/D.png) | ![U](/U.png)
